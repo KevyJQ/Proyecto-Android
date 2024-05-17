@@ -1,0 +1,35 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+
+<resources>
+    <string name="app_name">Supercats</string>
+    <string name="hero1">Catulk</string>
+    <string name="description1">No existe un límite conocido para su fuerza, y ha demostrado ser capaz de levantar pesos colosales, romper estructuras de concreto y hasta detener misiles con sus propias patas</string>
+    <string name="hero2">Thanoshi</string>
+    <string name="description2">Puede curar heridas graves en cuestión de minutos e incluso regenerar patas perdidas</string>
+    <string name="hero3">Spidercat</string>
+    <string name="description3">Puede levantar varias toneladas, saltar grandes distancias, realizar acrobacias increíbles y esquivar ataques a velocidades impresionantes</string>
+    <string name="hero4">Wolvecat</string>
+    <string name="description4">Puede levantar pesos considerables, correr a grandes velocidades y esquivar ataques con gran precisión</string>
+    <string name="hero5">Meawstrange</string>
+    <string name="description5">Puede proyectar su forma astral para explorar el plano astral e interactuar con otros seres astrales</string>
+    <string name="hero6">Lokishi</string>
+    <string name="description6">Es un maestro de la estrategia, la persuasión y la ilusión</string>
+    <string name="hero7">Catpool</string>
+    <string name="description7">La velocidad de su curación varía dependiendo de la gravedad de la herida y de su estado mental</string>
+    <string name="hero8">Ironcat</string>
+    <string name="description8">La armadura está equipada con una variedad de misiles y otras armas de proyectiles, puede utilizar para atacar a enemigos aéreos y terrestres</string>
+</resources>
